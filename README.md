@@ -1,16 +1,12 @@
-# habit_tracker_app
+Habit tracker app 
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/92254744/198618688-9fcdc34b-0c28-4214-8c9b-c111046b0205.png" width="200" />
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/92254744/198619911-833c9a74-87ee-4a7e-aa7c-56cefd7afaf1.png" width="200" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/92254744/198620578-0e03247e-5fe9-45d7-9947-6bf7a3d07a23.png" width="200" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://user-images.githubusercontent.com/92254744/198621236-f615d5e1-764e-41f0-beb9-d2ec47411794.png" width="200" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/92254744/198621298-cc4f7185-b483-4005-a05c-383d8a01aa92.png" width="200" />
